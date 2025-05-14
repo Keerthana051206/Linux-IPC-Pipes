@@ -116,7 +116,8 @@ void client() {
 
 
 ## OUTPUT
-<img width="242" alt="image" src="https://github.com/user-attachments/assets/3540f4db-0ac6-481e-9ed1-523ea9d8786d" />
+
+![image](https://github.com/user-attachments/assets/bae05c7c-fd99-4bfd-8005-a23cd5ebebd2)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 #include <stdio.h>
@@ -210,7 +211,8 @@ void client() {
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/163eab64-b19d-4221-8ee7-e645679d166b)
+![image](https://github.com/user-attachments/assets/bfb3047a-8320-410f-8522-ba89dc75147b)
+
 
 
 
